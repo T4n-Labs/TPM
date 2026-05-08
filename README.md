@@ -1,10 +1,10 @@
-# VPM
-Void Package Manager - Wrapper XBPS
+# TPM
+T4n Package Manager - Wrapper XBPS
 
 ## Structure Project
 ```
-vpm/
-├── vpm            # entrypoint
+tpm/
+├── tpm            # entrypoint
 ├── lib/
 │   ├── core.sh    # core logic
 │   └── ui.sh      # output/logging
@@ -22,5 +22,8 @@ vpm/
 - Dokumentasi : [man.md](./man.md)
 
 ---
-- @T4n-Labs
-- @Gh0sT4n
+<div align=center>
+
+  @[T4n-Labs](https://github.com/T4n-Labs) - @[Gh0sT4n](https://github.com/gh0st4n)
+  
+</div>
