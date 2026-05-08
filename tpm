@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 set -eu
 
-VPM_DIR="${VPM_DIR:-/usr/lib/vpm}"
+TPM_DIR="${VPM_DIR:-/usr/lib/vpm}"
 
-. "$VPM_DIR/lib/core.sh"
-. "$VPM_DIR/lib/ui.sh"
+. "$TPM_DIR/lib/core.sh"
+. "$TPM_DIR/lib/ui.sh"
 
 cmd="${1:-}"
 shift || true
