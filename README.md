@@ -1,25 +1,8 @@
 # TPM
 T4n Package Manager - Wrapper XBPS
 
-## Structure Project
-```
-tpm/
-├── tpm            # entrypoint
-├── lib/
-│   ├── core.sh    # core logic
-│   └── ui.sh      # output/logging
-├── commands/
-│   ├── install.sh
-│   ├── remove.sh
-│   ├── search.sh
-│   ├── update.sh
-│   └── upgrade.sh
-├── template       # template for xbps-src
-├── install        # install to system
-└── man.md
-```
-
-- Dokumentasi : [man.md](./man.md)
+## Move
+- [Gitlab](https://gitlab.com/packages4373527/tpm)
 
 ---
 <div align=center>
